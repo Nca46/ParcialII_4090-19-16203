@@ -1,3 +1,7 @@
 {
   "app_location": "public"
 }
+{
+  "app_location": "public", // Ubicación de tu aplicación web estática
+  "api_location": "api" // Ubicación de tu API
+}
